@@ -1,2 +1,2 @@
-# oms_plugin
-oms plugin
+# oms_plugins
+oms plugins
